@@ -1,4 +1,4 @@
-How to run the Vehicle Parking Management System Project using PHP and MySQL
+## How to run the Vehicle Parking Management System Project using PHP and MySQL
 
 1. Download the project zip file
 
